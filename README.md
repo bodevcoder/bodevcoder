@@ -26,4 +26,4 @@ I made projects just for fun, training my skills...
 
 <a href="http://www.github.com/bodevcoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bodevcoder&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/871783569981308968?showDisplayName=true&hideDecoration=true&hideTimestamp=false&hideBadges=false&hideActivity=false&hideDiscrim=false&animatedDecoration=true&hideStatus=false&hideClan=false&hideProfile=false&animated=true&theme=dark&bg=050505)](https://discord.com/users/871783569981308968)
+[![Discord Presence](https://lanyard.cnrad.dev/api/419291962273955851?showDisplayName=true&hideDecoration=true&hideTimestamp=false&hideBadges=false&hideActivity=false&hideDiscrim=false&animatedDecoration=true&hideStatus=false&hideClan=false&hideProfile=false&animated=true&theme=dark&bg=050505)](https://discord.com/users/419291962273955851)
